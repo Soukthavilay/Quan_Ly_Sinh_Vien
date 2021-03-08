@@ -1,0 +1,62 @@
+QLSV 
+// QLSV s = new QLSV();
+            // SV s1 = new SV() {
+            //     MSSV = 1, Ten = "NVA", DTB = 0
+            // };
+            // SV s2 = new SV() {
+            //     MSSV = 2, Ten = "NVB", DTB = 0
+            // };
+            // SV s3 = new SV() {
+            //     MSSV = 3, Ten = "NVC", DTB = 0
+            // };
+            // s.Add(s1);
+            // s.Add(s2);
+            // s.Add(s2);
+            // s.Add(s2);
+            // s.Add(s2);
+            // s.Add(s2);
+            // s.Add(s3);
+            // Console.WriteLine("Before modify:\n" + s.ToString() + "\n");
+            // Console.WriteLine("Index of s2: " + s.IndexOf(s2));
+            // int delAt = 0;
+            // s.RemoveAt(delAt);
+            // Console.WriteLine("After delete in index " + delAt + ":\n" + s.ToString() + "\n");
+            // s.Remove(s2);
+            // Console.WriteLine("After delete:\n" + s.ToString() + "\n");
+            // s.Sort();
+LIen ket 
+ public delegate int MyDel(int a, int b);
+        static int Sum (int x, int y)
+        {
+        
+            return x+y;
+        }
+        static int TT (int x, int y , MyDel d ){
+            return d(x,y);
+        }
+        static void Main(string[] args)
+        {
+            // MyDel d;
+            // d = new MyDel(sum);
+            MyDel d = new MyDel(Sum);
+            // Ham
+            int x = d(2,1);
+            //doi tuong 
+            int y = d.Invoke(2,1);
+            Console.WriteLine("x ={0}, y = {1}", x,y);
+            //them so cua ham 
+            MyDel d1 = new MyDel(Sum);
+            int z1 = TT(2,1,d1);
+            int z2 = TT(2,1,Sum);
+            Console.WriteLine( "z1 = 0 , z2 = (1)",z1 , z2 );
+            
+            
+
+            MyClass f = new MyClass();
+            f.A();
+            IFile1 f1 = (IFile1)f;
+            IFile2 f2 = (IFile2)f;
+            f1.A();
+            f2.A();
+            f1.B();
+            f2.C();

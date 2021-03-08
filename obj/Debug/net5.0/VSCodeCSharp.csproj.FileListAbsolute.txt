@@ -1,0 +1,32 @@
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.AssemblyInfo.cs
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.exe
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.deps.json
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.runtimeconfig.json
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.runtimeconfig.dev.json
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.dll
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\ref\VSCodeCSharp.dll
+D:\Documents\Visual Studio Code\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.pdb
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.dll
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\ref\VSCodeCSharp.dll
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.pdb
+D:\Documents\Visual Studio Code\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.genruntimeconfig.cache
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.pdb
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.exe
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.deps.json
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.runtimeconfig.json
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.runtimeconfig.dev.json
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.dll
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\ref\VSCodeCSharp.dll
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\bin\Debug\net5.0\VSCodeCSharp.pdb
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.csprojAssemblyReference.cache
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.AssemblyInfoInputs.cache
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.AssemblyInfo.cs
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.dll
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\ref\VSCodeCSharp.dll
+C:\Users\Laocom\Downloads\VSCodeCSharp\VSCodeCSharp\obj\Debug\net5.0\VSCodeCSharp.genruntimeconfig.cache
