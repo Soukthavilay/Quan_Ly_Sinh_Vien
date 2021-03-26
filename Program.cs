@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-// huk kone
+// huk kone leo br huk mie blae blae
 namespace VSCODECSHARP
 {
     class Program
